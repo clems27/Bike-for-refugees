@@ -3,6 +3,7 @@
  *
  * Module: HTML/CSS
  * Lesson: 1,2
+ * Class: Scotland 2017
  */
 
 html,
@@ -60,6 +61,19 @@ body {
 	width: 1px;
 	background: #ce5f31;
 }
+
+ .jumbotron {
+  margin-top: 20px;
+  background-image: url("../images/header-bike.jpg");
+  background-size: cover;
+  columns: white;
+}
+.jumbotron h1 {
+  color: white;
+}
+.jumbotron p {
+  color: white;
+} */
 
 /* Headings */
 .heading-underline {
